@@ -39,3 +39,5 @@ python pdf_to_audiobook.py(bash)
 A file dialog will ask you to select the PDF.
 
 The content will be read aloud using a neutral TTS voice (not gender-specific).
+
+For this project the website used is this https://readnovelfull.com/a-will-eternal.html
